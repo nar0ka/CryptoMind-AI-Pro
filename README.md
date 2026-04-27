@@ -1,5 +1,7 @@
 # 📊 CryptoMind AI Pro: Institutional-Grade Analytical Station
 
+![CryptoMind Architecture](изображение_2026-04-28_010542796.png)
+
 A high-performance n8n ecosystem designed for 24/7 crypto market intelligence and automated sentiment analysis.
 
 ### 🧠 Core Intelligence
