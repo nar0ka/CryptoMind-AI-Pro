@@ -1,5 +1,8 @@
 # 📊 CryptoMind AI Pro: Institutional-Grade Analytical Station
 
+---
+
+### 🛠 System Architecture
 ![CryptoMind Architecture](изображение_2026-04-28_010542796.png)
 
 A high-performance n8n ecosystem designed for 24/7 crypto market intelligence and automated sentiment analysis.
@@ -9,11 +12,6 @@ A high-performance n8n ecosystem designed for 24/7 crypto market intelligence an
 - **Deep Sentiment:** Multi-model analysis (Gemini Pro & GPT-4o) of market trends.
 - **Institutional Logic:** Advanced filtering to separate signal from noise.
 - **Instant Alerts:** Professional Telegram delivery with actionable insights.
-
----
-
-### 🛠 System Architecture
-![CryptoMind Schema](ЗДЕСЬ_ВСТАВЬ_СКРИНШОТ_СХЕМЫ)
 
 ---
 
