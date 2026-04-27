@@ -39,7 +39,7 @@ This is a professional-grade JSON template for n8n. Deployment is streamlined fo
 ### 🛒 Get Started
 Unlock the full power of automated crypto intelligence today.
 
-[**👉 Get Full Access on Gumroad**](https://naroka.gumroad.com)
+[**👉 Get Full Access on Gumroad**](https://naroka.gumroad.com/l/CryptoMindAIProAnalyst)
 
 ---
 *Developed by [Naroka Studio](https://github.com/Naroka-Studio)*
