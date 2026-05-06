@@ -4,6 +4,7 @@
 
 ---
 
+
 ### 🛠 System Architecture
 ![CryptoMind Architecture](изображение_2026-04-28_010542796.png)
 
