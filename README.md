@@ -8,6 +8,7 @@
 ### 🛠 System Architecture
 ![CryptoMind Architecture](изображение_2026-04-28_010542796.png)
 
+
 > **Why CryptoMind?**
 > Most traders fail because of emotions. CryptoMind removes the human factor by using neural networks to score market sentiment 24/7. It's not just a bot; it's your personal hedge-fund grade analytical department.
 
