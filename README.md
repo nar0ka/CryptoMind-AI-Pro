@@ -1,3 +1,4 @@
+
 # 📊 CryptoMind AI Pro: Institutional-Grade Analytical Station
 
 ![n8n](https://img.shields.io/badge/n8n-certified-red) ![AI](https://img.shields.io/badge/AI-Gemini%20|%20GPT--4o-blue) ![Market](https://img.shields.io/badge/Market-Crypto-orange) ![Status](https://img.shields.io/badge/Status-Production%20Ready-green)
